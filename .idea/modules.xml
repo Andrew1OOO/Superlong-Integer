@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Superlong-Integer.iml" filepath="$PROJECT_DIR$/Superlong-Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Superlong-Byte.iml" filepath="$PROJECT_DIR$/Superlong-Byte.iml" />
     </modules>
   </component>
 </project>

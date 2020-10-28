@@ -1,2 +1,2 @@
-# Superlong-Integer
-A class that is used to represent 128 bit integers, and perform simple math operations
+# Superlong-Byte
+A class that is used to represent 128 bit Bytes, and perform simple math operations
